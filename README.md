@@ -40,5 +40,3 @@ Visual Studio Code;
 Git e GitHub;
 Linguagem C;
 Wokwi.
-
-### Simulação Web: https://wokwi.com/projects/422009246276943873
